@@ -1,0 +1,17 @@
+<div class="footer-container">
+    <div class="footer">
+        <ul>
+<li><a href="http://mystore.loc/index.php/about-magento-demo-store?<!--SID=156213884b7c15e9bc3b77aef581494f410219c7-->">About Us</a></li>
+<li><a href="http://mystore.loc/index.php/customer-service?<!--SID=156213884b7c15e9bc3b77aef581494f410219c7-->">Customer Service</a></li>
+<li class="last privacy"><a href="http://mystore.loc/index.php/privacy-policy-cookie-restriction-mode?<!--SID=156213884b7c15e9bc3b77aef581494f410219c7-->">Privacy Policy</a></li>
+</ul><ul class="links">
+                        <li class="first" ><a href="http://mystore.loc/index.php/catalog/seo_sitemap/category/?<!--SID=156213884b7c15e9bc3b77aef581494f410219c7-->" title="Site Map" >Site Map</a></li>
+                                <li ><a href="http://mystore.loc/index.php/catalogsearch/term/popular/?<!--SID=156213884b7c15e9bc3b77aef581494f410219c7-->" title="Search Terms" >Search Terms</a></li>
+                                <li ><a href="http://mystore.loc/index.php/catalogsearch/advanced/?<!--SID=156213884b7c15e9bc3b77aef581494f410219c7-->" title="Advanced Search" >Advanced Search</a></li>
+                                <li ><a href="http://mystore.loc/index.php/sales/guest/form/?<!--SID=156213884b7c15e9bc3b77aef581494f410219c7-->" title="Orders and Returns" >Orders and Returns</a></li>
+                                <li class=" last" ><a href="http://mystore.loc/index.php/contacts/?<!--SID=156213884b7c15e9bc3b77aef581494f410219c7-->" title="Contact Us" >Contact Us</a></li>
+            </ul>
+        <p class="bugs">Help Us to Keep Magento Healthy - <a href="http://www.magentocommerce.com/bug-tracking" onclick="this.target='_blank'"><strong>Report All Bugs</strong></a> (ver. 1.8.1.0)</p>
+        <address>&copy; 2013 Magento Demo Store. All Rights Reserved.</address>
+    </div>
+</div>

@@ -1,0 +1,13 @@
+a:4:{i:0;s:25:"cache_dir is not writable";i:1;s:1405:"#0 /Users/jonbianco/www/mystore.loc/lib/Zend/Cache/Backend/File.php(157): Zend_Cache::throwException('cache_dir is no...')
+#1 /Users/jonbianco/www/mystore.loc/lib/Zend/Cache/Backend/File.php(121): Zend_Cache_Backend_File->setCacheDir('/Users/jonbianc...')
+#2 /Users/jonbianco/www/mystore.loc/lib/Zend/Cache.php(153): Zend_Cache_Backend_File->__construct(Array)
+#3 /Users/jonbianco/www/mystore.loc/lib/Zend/Cache.php(94): Zend_Cache::_makeBackend('File', Array, true, true)
+#4 /Users/jonbianco/www/mystore.loc/app/code/core/Mage/Core/Model/Cache.php(137): Zend_Cache::factory('Varien_Cache_Co...', 'File', Array, Array, true, true, true)
+#5 /Users/jonbianco/www/mystore.loc/app/code/core/Mage/Core/Model/Config.php(1348): Mage_Core_Model_Cache->__construct(Array)
+#6 /Users/jonbianco/www/mystore.loc/app/Mage.php(463): Mage_Core_Model_Config->getModelInstance('core/cache', Array)
+#7 /Users/jonbianco/www/mystore.loc/app/code/core/Mage/Core/Model/App.php(401): Mage::getModel('core/cache', Array)
+#8 /Users/jonbianco/www/mystore.loc/app/code/core/Mage/Core/Model/App.php(295): Mage_Core_Model_App->_initCache(Array)
+#9 /Users/jonbianco/www/mystore.loc/app/code/core/Mage/Core/Model/App.php(337): Mage_Core_Model_App->baseInit(Array)
+#10 /Users/jonbianco/www/mystore.loc/app/Mage.php(684): Mage_Core_Model_App->run(Array)
+#11 /Users/jonbianco/www/mystore.loc/index.php(87): Mage::run('', 'store')
+#12 {main}";s:3:"url";s:1:"/";s:11:"script_name";s:10:"/index.php";}
